@@ -27,3 +27,8 @@
     <br/>
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyoshaOlyosha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&card_height=90&card_width=400" alt="top langs" />
 </div>
+<h2 align="center">🏆 Achievements 🏆</h2>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=OlyoshaOlyosha&theme=onedark&no-frame=true&rank=-?&column=-1">
+</div>
