@@ -32,3 +32,8 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=OlyoshaOlyosha&theme=onedark&no-frame=true&rank=-?&column=-1">
 </div>
+<div align="center">
+    
+![snake gif](https://github.com/OlyoshaOlyosha/OlyoshaOlyosha/blob/output/github-snake-dark.svg)
+
+</div>
